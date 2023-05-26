@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-telegram-programming-tips",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "alextanhongpin <alextan220990@gmail.com>",
+  "license": "ISC",
+  "description": ""
+}
